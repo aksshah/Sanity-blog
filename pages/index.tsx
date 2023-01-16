@@ -14,7 +14,7 @@ export default function Home(props: Props) {
   return (
     <>
       <Head>
-        <title>Medium blog</title>
+        <title>Medium - with Sanity</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>
